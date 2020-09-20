@@ -48,6 +48,14 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
+
+- [078《Bookmarks clean up》高效清理重复和损坏的书签](https://www.v2fy.com/p/078-bookmarks-clean-up/)
+
+- [077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
+
+- [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
+
 - [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
 
 - [074《破解右键锁》如何自由复制百度文库网页内容?](https://www.v2fy.com/p/074-enable-right-click/)
@@ -377,6 +385,33 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 [感谢JetBrains对本项目的资助支持](https://www.jetbrains.com/?from=ChromeAppHeroes)
 
 **感谢以上赞赏者对本开源项目的支持[手动滑稽]**
+
+#### [079《Search the current site(站内搜索)》超实用的站内搜索工具](https://www.v2fy.com/p/079-search-the-current-site/)
+
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/079SearchTheCurrentSite.gif)
+
+
+
+专业的事要专业的工具来做，搜索引擎的核心功能就是对网页内容进行索引，即使网站有百万网页， 通过搜索引擎语法进行关键词的查找，出结果只需要一瞬间。
+
+
+####  [078《Bookmarks clean up》高效清理重复和损坏的书签](https://www.v2fy.com/p/078-bookmarks-clean-up/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/078-book003.gif)
+
+设计需要做减法，浏览器书签也是！如果你的浏览器书签长时间未整理，查找网址会变得非常耗时， Bookmarks clean up不仅可以将重复书签列出，还能清理已经失效的网页，确实算得上一款优质工具～
+
+####  [077《Sourcegraph》阮一峰大佬推荐的github仓库关键词搜索工具](https://www.v2fy.com/p/077-sourcegraph/)
+
+![077-sourcegraph](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/077-sourcegraph.gif)
+
+
+#### [076《Listen1》Chrome听付费歌曲工具！免费听周杰伦的歌，网易云音乐,QQ音乐,虾米音乐,酷狗,酷我,哔哩哔哩,咪咕,一个扩展全搞定](https://www.v2fy.com/p/076-listen1/)
+
+![](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/076-listen1-mo.gif)
+
+有没有一款可以畅听国内音乐平台所有付费音乐的Chrome扩展？ 答案是有的！
 
 #### [075《Link to Text Fragment》这款谷歌发布的分享工具，让3万新媒体人直呼绝活儿…](https://www.v2fy.com/p/075-link-to-text-fragment/)
 
